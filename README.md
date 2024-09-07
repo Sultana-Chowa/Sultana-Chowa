@@ -1,4 +1,4 @@
-![Researcher and Python Programmer](https://avatars.githubusercontent.com/u/87888596?v=4)
+
 
 ### Hi there 👋, my name is Sadia Sultana Chowa
 #### Researcher and Python Programmer
