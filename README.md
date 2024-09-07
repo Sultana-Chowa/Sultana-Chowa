@@ -2,7 +2,7 @@
 
 ### Hi there 👋, my name is Sadia Sultana Chowa
 #### Researcher and Python Programmer
-
+![Researcher and Python Programmer](https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif)
 I specialize in advancing Computer Vision and Machine Learning, with a focus on innovative solutions in healthcare informatics.
 
 <h3 align="left">Languages and Tools:</h3>
