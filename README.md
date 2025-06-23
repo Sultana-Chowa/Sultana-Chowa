@@ -17,12 +17,7 @@
 - 📫 How to reach me: sadia15-3052@diu.edu.bd 
 - ⚡ Fun fact: Japanese Anime Lover 
 
-[<img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="github" height="40">](https://github.com/Sultana-Chowa)  
-[<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="40">](https://www.linkedin.com/in/sadia-sultana-chowa-/)  
-[<img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="facebook" height="40">](https://www.facebook.com/profile.php?id=100021732156449)  
-[<img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="instagram" height="40">](https://www.instagram.com/ch.o.w.a/)  
-[<img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="twitter" height="40">](https://twitter.com/ChowaxSadia)  
-[<img src="https://cdn-icons-png.flaticon.com/512/2111/2111628.png" alt="researchgate" height="40">](https://www.researchgate.net/profile/Sadia-Chowa)
+[<img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="github" height="40">](https://github.com/Sultana-Chowa) [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="40">](https://www.linkedin.com/in/sadia-sultana-chowa-/) [<img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="facebook" height="40">](https://www.facebook.com/profile.php?id=100021732156449) [<img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="instagram" height="40">](https://www.instagram.com/ch.o.w.a/) [<img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="twitter" height="40">](https://twitter.com/ChowaxSadia) [<img src="https://cdn-icons-png.flaticon.com/512/2111/2111628.png" alt="researchgate" height="40">](https://www.researchgate.net/profile/Sadia-Chowa)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sultana-Chowa)](https://github.com/anuraghazra/github-readme-stats)
